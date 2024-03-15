@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Ihor Avdiunin.
-[![Linkedin Badge](https://img.shields.io/badge/-IhorAvd-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)]([your-linkedIn-Url](https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-IhorAvd-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)]([https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/](https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)) 
 [![Linkedin Badge](https://img.shields.io/badge/OlenaAwd-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-avdiunina/)](https://www.linkedin.com/in/olena-avdiunina/)
 I'm 💚 Front-end 💚 
 <!--
