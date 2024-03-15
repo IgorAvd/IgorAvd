@@ -4,6 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/IhorAvdiunin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)](https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)
 [![Gmail Badge](https://img.shields.io/badge/-igor.avdiunin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:igor.avdiunin@gmail.com)](mailto:igor.avdiunin@gmail.com) 
 
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=IgorAvd&show_icons=true&include_all_commits=true)](https://github.com/IgorAvd
+/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvd&layout=compact)](https://github.com/IgorAvd/github-readme-stats)
+
 <!--
 **IgorAvd/IgorAvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
