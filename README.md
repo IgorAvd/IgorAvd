@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 my name is Ihor Avdiunin.
+[![Gmail Badge](https://img.shields.io/badge/-elena.avdiunina@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elena.avdiunina@gmail.com)](mailto:igor.avdiunin@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/OlenaAwd-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-avdiunina/)](https://www.linkedin.com/in/olena-avdiunina/)
+[![Github Badge](https://img.shields.io/badge/-OlenaAwd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/OlenaAwd/)](https://www.github.com/OlenaAwd/) <p align='left'>I'm 💚 Front-end 💚 
 <!--
 **IgorAvd/IgorAvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
