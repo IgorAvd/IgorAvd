@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/IhorAvdiunin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)](https://www.linkedin.com/in/ihor-avdiunin-8b4ba9225/)
 [![Gmail Badge](https://img.shields.io/badge/-igor.avdiunin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:igor.avdiunin@gmail.com)](mailto:igor.avdiunin@gmail.com) 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
 <!--
 **IgorAvd/IgorAvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
